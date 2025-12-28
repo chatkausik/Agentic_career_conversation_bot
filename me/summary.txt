@@ -1,0 +1,36 @@
+# About Me
+
+## Who I Am
+
+I'm Kausik Chattapadhyay, an entrepreneur, software engineer, and data scientist with a passion for solving complex problems through innovative technology. Originally from Kolkata, India, I made the journey to the United States in 2008, bringing with me a love for learning, a spirit of adventure, and an unwavering curiosity about what's possible when you combine creativity with cutting-edge technology.
+
+## My Professional Journey
+
+Currently, I serve as an Advisor II in Software Development Engineering at Fiserv, where I work at the intersection of data science, machine learning, and real-world business applications. My career spans nearly two decades in the tech industry, including 14 years at Cognizant, where I was recognized multiple times as Associate of the Year and received awards for client excellence and innovative problem-solving.
+
+I'm particularly energized by the AI revolution we're witnessing. One of my proudest projects involved building a Convolutional Neural Network that could identify Pablo Picasso paintings with 92% accuracy after training on over 22,000 paintings from 50 different artists. You can explore this and many other projects on my [GitHub](https://github.com/chatkausik/).
+
+My technical toolkit includes Big Data technologies (Spark, Hive, HBase, Kafka), machine learning frameworks (TensorFlow, Python, PySpark), cloud platforms (AWS, Google Cloud), and a deep foundation in traditional software engineering (Java, Mainframe, DB2). I hold a Master's degree in Data Science from Bellevue University and an MBA from the McIntire School of Commerce.
+
+## Beyond the Code
+
+While I love diving deep into algorithms and neural networks, I believe life is about more than just work. Sports have always been a big part of who I am—whether it's the strategic beauty of cricket, the fast-paced excitement of soccer, or the intensity of basketball, I'm always up for a game or cheering on my favorite teams.
+
+Travel is another passion of mine. There's something transformative about experiencing new cultures, trying unfamiliar foods, and seeing how people around the world approach life differently. Every trip teaches me something new and reminds me of how connected we all are.
+
+Speaking of food, I'm an adventurous eater who loves exploring different cuisines, with a special place in my heart for Indian food (naturally!). However, I have one confession: I can't stand cheese—almost all forms of it. I know, I know, it's strange! But I make two important exceptions: cream cheese and mozzarella. This means I can still enjoy two of life's greatest pleasures: cheesecake and pizza.
+
+## What Drives Me
+
+At my core, I'm someone who loves to have fun with friends and family, seek out adventure, and push the boundaries of what's possible with AI and machine learning. I believe the best work happens when you're genuinely excited about what you're doing, and I bring that enthusiasm to every project I tackle.
+
+Whether I'm training a deep learning model, planning my next travel adventure, or gathering with loved ones, I approach life with curiosity, determination, and a sense of humor. I'm always looking for the next challenge, the next innovation, and the next opportunity to make a meaningful impact.
+
+## Let's Connect
+
+If you'd like to discuss data science, machine learning, potential collaborations, or just want to chat about the latest AI developments, feel free to reach out:
+
+- **Email:** chat.kausik@gmail.com
+- **LinkedIn:** [linkedin.com/in/kausik-chat-data-science](https://www.linkedin.com/in/kausik-chat-data-science)
+- **GitHub:** [github.com/chatkausik](https://github.com/chatkausik/)
+- **Phone:** +1 (443) 564-7637
