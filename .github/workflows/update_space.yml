@@ -3,7 +3,7 @@ name: Run Python script
 on:
   push:
     branches:
-      - MAIN
+      - main
 
 jobs:
   build:
